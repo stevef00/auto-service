@@ -19,9 +19,11 @@ Break Bead
 
 1. Remove valve core and allow tire to fully deflate.
 
-2. Align shovel of tire machine with outside edge of rim.
+2. Remove wheel weights.
 
-3. Ensure that the shovel edge is on the tire sidewall near to but not
+3. Align shovel of tire machine with outside edge of rim.
+
+4. Ensure that the shovel edge is on the tire sidewall near to but not
    touching rim of wheel. To prevent damage to TPMS sensor place the
    valve stem at the 12 or 6'oclock position.
 
@@ -29,17 +31,17 @@ Break Bead
       Use a rubber cover on tire machine shovel to prevent scratches
       on wheel.
 
-4. With tire correctly aligned with tire machine shovel, press
+5. With tire correctly aligned with tire machine shovel, press
    appropriate pedal to engage shovel. Press pedal until bead breaks.
 
-5. Release pedal returning shovel to starting position. Check that bead
+6. Release pedal returning shovel to starting position. Check that bead
    is broken along entire outside rim of wheel. If required, rotate
-   wheel 180 degrees and repeat step #4.
+   wheel 180 degrees and repeat step #5.
 
-6. After fully breaking outside bead, flip tire so that the shovel
+7. After fully breaking outside bead, flip tire so that the shovel
    is toward the inside edge of the rim.
 
-7. Repeat steps #3-#5 to break inside bead.
+8. Repeat steps #4-#6 to break inside bead.
 
 Remove Tire from Wheel
 ~~~~~~~~~~~~~~~~~~~~~~
