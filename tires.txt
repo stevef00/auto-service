@@ -17,13 +17,13 @@ Tools Required
 Break Bead
 ~~~~~~~~~~
 
-1. Remove valve core and allow tire to fully deflate.
+#. Remove valve core and allow tire to fully deflate.
 
-2. Remove wheel weights.
+#. Remove wheel weights.
 
-3. Align shovel of tire machine with outside edge of rim.
+#. Align shovel of tire machine with outside edge of rim.
 
-4. Ensure that the shovel edge is on the tire sidewall near to but not
+#. Ensure that the shovel edge is on the tire sidewall near to but not
    touching rim of wheel. To prevent damage to TPMS sensor place the
    valve stem at the 12 or 6'oclock position.
 
@@ -31,70 +31,70 @@ Break Bead
       Use a rubber cover on tire machine shovel to prevent scratches
       on wheel.
 
-5. With tire correctly aligned with tire machine shovel, press
+#. With tire correctly aligned with tire machine shovel, press
    appropriate pedal to engage shovel. Press pedal until bead breaks.
 
-6. Release pedal returning shovel to starting position. Check that bead
+#. Release pedal returning shovel to starting position. Check that bead
    is broken along entire outside rim of wheel. If required, rotate
    wheel 180 degrees and repeat step #5.
 
-7. After fully breaking outside bead, flip tire so that the shovel
+#. After fully breaking outside bead, flip tire so that the shovel
    is toward the inside edge of the rim.
 
-8. Repeat steps #4-#6 to break inside bead.
+#. Repeat steps #4-#6 to break inside bead.
 
 Remove Tire from Wheel
 ~~~~~~~~~~~~~~~~~~~~~~
 
-1. Place wheel on tire machine with the outside of the rim facing up.
+#. Place wheel on tire machine with the outside of the rim facing up.
 
-2. **FIXME**: clamp wheel
+#. **FIXME**: clamp wheel
 
-3. Align the "duck head" of tire machine with edge of rim.
+#. Align the "duck head" of tire machine with edge of rim.
 
    .. NOTE::
       If the tire is low-profile or will be remounted, lubricate the
       bead before dismounting.
 
-4. Rotate wheel until valve stem is centered on or slightly behind the
+#. Rotate wheel until valve stem is centered on or slightly behind the
    duck head.
 
-5. Insert tire tool between duck head and tire bead. It may be
+#. Insert tire tool between duck head and tire bead. It may be
    necessary to press down on the tire sidewall to get the tool
    inserted.
 
-6. Press outside end of tire tool down to create leverage on tire
+#. Press outside end of tire tool down to create leverage on tire
    bead, lifting it above the edge of rim.
 
-7. While pressing down on tire tool, press lightly on appropriate
+#. While pressing down on tire tool, press lightly on appropriate
    tire machine pedal to begin slowly rotating tire. As tire starts
    to rotate, the bead will be pulled above duck head.
 
-8. When tire bead is above duck head, remove tire tool to prevent
+#. When tire bead is above duck head, remove tire tool to prevent
    scratching wheel as it rotates.
 
-9. Continue pressing pedal, rotating tire until outer bead is fully
+#. Continue pressing pedal, rotating tire until outer bead is fully
    above edge of rim.
 
-10. Once outer bead is fully outside of the outer rim, continue to
+#.  Once outer bead is fully outside of the outer rim, continue to
     rotate wheel until valve stem is at the original starting position.
 
-11. Place tire tool between duck head and lower (inner) bead of tire.
+#.  Place tire tool between duck head and lower (inner) bead of tire.
 
-12. Press outside end of tire tool down to create leverage on tire
+#.  Press outside end of tire tool down to create leverage on tire
     bead, lifting inner bead of tire over duck head.
 
-13. While pression down on tire tool, press lightly on appropriate
+#.  While pression down on tire tool, press lightly on appropriate
     tire machine pedal to begin slowly rotating tire. As tire starts
     to rotate, carefully remove tire tool to prevent scratching rim.
 
-14. Continue pressing pedal, rotating tire until inner bead is fully
+#.  Continue pressing pedal, rotating tire until inner bead is fully
     above edge of rim.
 
-15. Return arm of tire machine to starting position to allow removal
+#.  Return arm of tire machine to starting position to allow removal
     of tire.
 
-16. Press tire machine pedal to release rim.
+#.  Press tire machine pedal to release rim.
 
 Mount Tire
 ----------
