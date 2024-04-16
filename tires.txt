@@ -105,6 +105,14 @@ Tools Required
 Patch Tire
 ------------
 
+.. figure:: images/TireDiagram-CrownShoulderSidewall-436x285.jpg
+   :alt: Parts of a Tire
+
+   Parts of a Car Tire [#]_ (including the repariable area)
+
+.. U.S. Tire Manufacturers Association
+.. https://www.ustires.org/sites/default/files/2021-10/Puncture_repair_handout_17_2.pdf
+
 Tools Required
 ~~~~~~~~~~~~~~
 
@@ -113,3 +121,6 @@ Balance Tire
 
 Tools Required
 ~~~~~~~~~~~~~~
+
+
+.. [#] Tire Diagram & Sample Photos: https://www.sonsio.com/resources/tire-diagram/
