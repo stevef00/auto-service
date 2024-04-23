@@ -48,7 +48,24 @@ Remove Tire from Wheel
 
 #. Place wheel on tire machine with the outside of the rim facing up.
 
-#. **FIXME**: clamp wheel
+#. Use appropriate tire machine foot pedal to clamp rim. Steel wheels
+   can be clamped on the inside. Special care is needed for aluminum,
+   chrome plated, or other decorative wheels. These wheels should be
+   clamped on the rim edge:
+
+   a. Use the appropriate tire machine pedal to expand clamps wider
+      that the diameter of the wheel.
+
+   #. Rest rim edge against the nearest two clamps.
+
+   #. Use the appropriate pedal to retract clamps until the wheel is
+      secure.
+
+   .. NOTE::
+      It may be necessary to press down on center of wheel to provide
+      access for clamps to grip rim. Use the robo-arm (if equipped)
+      to press down on the wheel center. Remove wheel center cap (if
+      equipped) before using the robo-arm to press down on the wheel.
 
 #. Align the "duck head" of tire machine with edge of rim.
 
@@ -101,6 +118,57 @@ Mount Tire
 
 Tools Required
 ~~~~~~~~~~~~~~
+
+* valve core tool
+* tire machine
+
+..  "COATS 80x Tire Changer Demo"
+    https://www.youtube.com/watch?v=xrpNlKFcxmA
+
+#.  Position the TPMS sensor at the 6'oclock position on tire machine.
+
+#.  Lubricate inner and outer bead of tire.
+
+#.  Set tire on wheel with inner bead of tire in the wheel's drop
+    center on the side nearest the duck head.
+
+    .. NOTE::
+
+       Check tire sidewall information for inner/outer or directional
+       markings and ensure the tire is oriented correctly on wheel.
+
+#.  Swing duck head in and align with edge of rim.
+
+#.  Place inner bead of tire over wing and under the head of the duck
+    head. After inner bead is correctly positioned on duck head, use
+    a twisting motion on the tire to create friction between bead and
+    duck head.
+
+#.  Press pedal to rotate tire until inner bead of tire is completely
+    in the wheel's drop center.
+
+#.  Repeat procedure for outer tire bead. Use bead assist arm (if equipped)
+    or left hand to press down on tire as it rotates to keep the bead
+    in the wheel's drop center.
+
+#.  Release wheel and lift off of clamps.
+
+    .. WARNING::
+       Wheel must not be clamped on rim edge while inflating.
+
+#.  With the valve core removed, connect tire changer's air hose to valve
+    stem. Press appropriate pedal to inflate tire and set the beads.
+
+    .. NOTE::
+       It may be necessary to lift up on the tire while inflating to set
+       the beads.
+
+    .. WARNING::
+       Do not exceed 50 psi while inflating tire. If a higher psi is
+       required, follow additional safety procedures.
+
+#.  Install valve core and adjust final tire pressure.
+
 
 Patch Tire
 ------------
