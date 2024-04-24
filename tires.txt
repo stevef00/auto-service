@@ -4,6 +4,24 @@ Tire Service
 .. https://docutils.sourceforge.io/docs/ref/rst/directives.html#table-of-contents
 .. contents::
 
+Tire Inspection
+---------------
+
+Tire Rotation
+-------------
+
+.. figure:: images/ckx9gmxhh010y01r3hqggguvx-preferred-tire-rotation-patterns.max.png
+   :alt:  Preferred Tire Rotation Pattern
+   :height: 400px
+
+   Preferred Tire Rotation Patterns [#]_
+
+.. figure:: images/ckx9gkxro015m01om2alnnxz1-alternative-tire-rotation-patterns.max.png
+   :alt:  Alternative Tire Rotation Pattern
+   :height: 400px
+
+   Alternative Tire Rotation Patterns [#]_
+
 Dismount Tire
 -------------
 
@@ -191,4 +209,6 @@ Tools Required
 ~~~~~~~~~~~~~~
 
 
+.. [#] Tire Rotation Pattern Photos: https://www.bfgoodrichtires.com/auto/learn/maintenance/tire-rotation
+.. [#] Tire Rotation Pattern Photos: https://www.bfgoodrichtires.com/auto/learn/maintenance/tire-rotation
 .. [#] Tire Diagram & Sample Photos: https://www.sonsio.com/resources/tire-diagram/
